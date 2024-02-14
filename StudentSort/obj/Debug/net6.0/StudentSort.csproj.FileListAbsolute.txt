@@ -1,0 +1,14 @@
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\bin\Debug\net6.0\StudentSort.exe
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\bin\Debug\net6.0\StudentSort.deps.json
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\bin\Debug\net6.0\StudentSort.runtimeconfig.json
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\bin\Debug\net6.0\StudentSort.dll
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\bin\Debug\net6.0\StudentSort.pdb
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.AssemblyInfoInputs.cache
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.AssemblyInfo.cs
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.csproj.CoreCompileInputs.cache
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.dll
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\refint\StudentSort.dll
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.pdb
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\StudentSort.genruntimeconfig.cache
+C:\Users\elsamj\source\repos\StudentSort\StudentSort\obj\Debug\net6.0\ref\StudentSort.dll
